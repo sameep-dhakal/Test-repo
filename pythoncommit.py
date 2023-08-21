@@ -2,16 +2,16 @@ import os
 import subprocess
 
 # Replace these with your repository information
-repository_path = "/home/sameeps/Desktop/Object-Oriented-Programming"
+repository_path = "/home/sameeps/Desktop/Test-repo"
 # Relative to the repository root
-file_path = "/home/sameeps/Desktop/Object-Oriented-Programming/699commits.txt"
+file_path = "/home/sameeps/Desktop/Test-repo/699commits.txt"
 
 
 # Change to the repository directory
 os.chdir(repository_path)
 
 # Loop to create commits
-for i in range(1000):
+for i in range(699):
     # Read the current content of the file
     with open(file_path, "r") as file:
         content = file.read()

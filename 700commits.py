@@ -31,23 +31,4 @@ for i in range(45, 699):
     time.sleep(5)
 
 print("Commits created successfully.")
-# Commit 1: New line of text
-# Commit 2: New line of text
-# Commit 3: New line of text
-# Commit 4: New line of text
-# Commit 5: New line of text
-# Commit 6: New line of text
-# Commit 7: New line of text
-# Commit 8: New line of text
-# Commit 9: New line of text
-# Commit 10: New line of text
-# Commit 11: New line of text
-# Commit 12: New line of text
-# Commit 13: New line of text
-# Commit 14: New line of text
-# Commit 15: New line of text
-# Commit 16: New line of text
-# Commit 17: New line of text
-# Commit 18: New line of text
-# Commit 19: New line of text
-# Commit 20: New line of text
+# Commit 21: New line of text
